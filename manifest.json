@@ -2,11 +2,13 @@
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "vicode.",
+  "name": "vicode",
   "orientation": "any",
+  "scope": "/",
   "short_name": "vicode",
   "start_url": "index.html",
   "theme_color": "#ffffff",
+  "id": "vicod",
 
   "icons": [
     {
