@@ -1,12 +1,12 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "#000000",
   "dir": "ltr",
   "display": "standalone",
   "name": "vicode",
   "orientation": "any",
   "short_name": "vicode",
   "start_url": "/index.html",
-  "theme_color": "#ffffff",
+  "theme_color": "#000000",
 
 
   "icons": [
