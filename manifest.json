@@ -4,11 +4,10 @@
   "display": "standalone",
   "name": "vicode",
   "orientation": "any",
-  "scope": "/",
   "short_name": "vicode",
-  "start_url": "index.html",
+  "start_url": "/index.html",
   "theme_color": "#ffffff",
-  "id": "vicod",
+
 
   "icons": [
     {
@@ -137,7 +136,7 @@
        "purpose":"maskable"
     },
     {
-      "src": "ios/1024.png",
+      "src": "icons/ios/1024.png",
       "sizes": "1024x1024",
       "purpose":"any"
     }
